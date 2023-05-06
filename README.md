@@ -6,7 +6,7 @@ Hello there, my name is Anahis Valenzuela 👋
 😊 Pronouns: She/Her/Ella
 ✨Fun fact: When I'm not coding I love to do yoga, play animal crossing, or go on nature walks 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![github](https://img.shields.io/badge/-GitHub-lightgrey?)
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?)
 ![React](https://img.shields.io/badge/-React-blue?)
 ![Node](https://img.shields.io/badge/-Node-yellowgreen?)
