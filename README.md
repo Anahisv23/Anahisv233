@@ -1,11 +1,12 @@
 Hello there, my name is Anahis Valenzuela 👋
 
 <ul>
-<li>👩🏻‍💻 I’m currently finishing up my affirmation web application using the Javascript PERN stack</li>
+<li>👩🏻‍💻 I'm a Full Stack Software Engineer looking for Software Engineer opportunities</li>
+<li>💻 I’m currently finishing up my affirmation web application using the Javascript PERN stack</li>
 <li>🌱 I’m currently practicing Algorithms and Data Structures on Algo Expert, LeetCode, and PRAMP</li>
 <li>📧 How to reach me: anahisvq7@gmail.com</li>
 <li>😊 Pronouns: She/Her/Ella</li>
-<li>✨Fun fact: When I'm not coding I love to do yoga, play animal crossing, or go on nature walks</li>
+<li>✨ Fun fact: When I'm not coding I love to do yoga, play animal crossing, or go on nature walks</li>
 </ul>
 
 ![github](https://img.shields.io/badge/-GitHub-lightgrey?)
