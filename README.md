@@ -7,4 +7,4 @@ Hello there, my name is Anahis Valenzuela 👋
 ✨Fun fact: When I'm not coding I love to do yoga, play animal crossing, or go on nature walks 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![Javascript](jss?style=for-the-badge&logo=GitHub&logoColor=white)]
+![Javascript](https://img.shields.io/badge/-Javascript-yellowgreen?)]
