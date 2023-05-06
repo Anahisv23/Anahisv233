@@ -1,4 +1,4 @@
-<h1>Hello there, my name is Anahis Valenzuela! I'm a Full Stack Software Engineer 👋</h1>
+<h2>Hello there, my name is Anahis Valenzuela! I'm a Full Stack Software Engineer 👋</h2>
 
 <ul>
 <li>👩🏻‍💻 I’m currently finishing up my affirmation web application using the Javascript PERN stack</li>
