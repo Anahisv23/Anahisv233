@@ -1,4 +1,4 @@
-Hello there, my name is Anahis Valenzuela! I'm a Full Stack Software Engineer 👋
+<h1>Hello there, my name is Anahis Valenzuela! I'm a Full Stack Software Engineer 👋</h1>
 
 <ul>
 <li>👩🏻‍💻 I’m currently finishing up my affirmation web application using the Javascript PERN stack</li>
@@ -8,7 +8,7 @@ Hello there, my name is Anahis Valenzuela! I'm a Full Stack Software Engineer �
 <li>✨ Fun fact: When I'm not coding I love to do yoga, play animal crossing, or go on nature walks</li>
 </ul>
 
-<h1>Technologies and Tools🛠</h1>
+<h3>Technologies and Tools🛠</h3>
 
 ![github](https://img.shields.io/badge/-GitHub-lightgrey?)
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?)
