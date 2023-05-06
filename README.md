@@ -9,6 +9,7 @@ Hello there, my name is Anahis Valenzuela! I'm a Full Stack Software Engineer ðŸ
 </ul>
 
 <h1>Technologies and ToolsðŸ› </h1>
+
 ![github](https://img.shields.io/badge/-GitHub-lightgrey?)
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?)
 ![Express](https://img.shields.io/badge/-Express-critical?)
