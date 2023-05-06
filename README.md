@@ -8,6 +8,7 @@ Hello there, my name is Anahis Valenzuela 👋
 
 ![github](https://img.shields.io/badge/-GitHub-lightgrey?)
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?)
+![Express](https://img.shields.io/badge/-Express-critical?)
 ![React](https://img.shields.io/badge/-React-blue?)
 ![Node](https://img.shields.io/badge/-Node-yellowgreen?)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?)
